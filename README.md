@@ -1,3 +1,7 @@
 # data_analytics
 
-data and Python code for DA coursework - Predicting obesity rates within different regions in the UK - edit
+This project contains gathered and processed data for obesity admission rates (hospitalised obese people) within different regions in England, as well as Python code for processing the data, plotting and modelling 
+
+QMUL Data Analytics - ECS784P
+
+Contributers: @janicelicy and @clairemk
