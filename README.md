@@ -5,3 +5,9 @@ This project contains gathered and processed data for obesity admission rates (h
 QMUL Data Analytics - ECS784P
 
 Contributers: @janicelicy and @clairemk
+
+An investigation into factors affecting obesity admission rates across England regions
+
+Chau Yi Li      | 160537611 | chau.li@se16.qmul.ac.uk
+Claire Kelleher | 161198367 | c.m.kelleher@se16.qmul.ac.uk
+Maya Petranova  | 161059127 | m.petranova@se16.qmul.ac.uk
